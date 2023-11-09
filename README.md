@@ -1,7 +1,6 @@
 # Vipul's Portfolio
-<center>
-Hey! I am Vipul Bohra.
-</center>
+
+align "center" Hey! I am Vipul Bohra.
 <br>
 
 ## Education
@@ -9,11 +8,10 @@ Hey! I am Vipul Bohra.
 `A B.tech student currently stuyding in PES University.`
 
 ### Skills
+Col 1  |      Col 2   |  Col 3
+-------|--------------|--------------
+Gaming | Basic coding | Cybersecurity
 
-|Col 1|Col 2|Col 3|
-|-----|-----|-----|
-|Gaming|Basic coding|Cybersecurity|
+#### 
 
-#### Favourite Hentai links
-
-[Hentai](https://youtube.com)
+[Discord](https://discord.com/users/735393934057930762)
