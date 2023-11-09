@@ -9,6 +9,7 @@ Hey! I am Vipul Bohra.
 `A B.tech student currently stuyding in PES University.`
 
 ### Skills
+
 |Col 1|Col 2|Col 3|
 |-----|-----|-----|
 |Gaming|Basic coding|Cybersecurity|
