@@ -1,6 +1,7 @@
 # Vipul's Portfolio
-
-align "center" Hey! I am Vipul Bohra.
+<center>
+Hey! I am Vipul Bohra.
+</center>
 <br>
 
 ## Education
