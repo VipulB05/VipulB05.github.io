@@ -5,12 +5,12 @@ align "center" Hey! I am Vipul Bohra.
 
 ## Education
 
-`A B.tech student currently stuyding in PES University.`
+```A B.tech student currently stuyding in PES University.```
 
 ### Skills
-Col 1  |      Col 2   |  Col 3
--------|--------------|--------------
-Gaming | Basic coding | Cybersecurity
+|Col1|Col2|Col3|
+|-----|-----|-----|
+|Gaming|Cybersecurity|Basic coding|
 
 #### 
 
