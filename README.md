@@ -7,9 +7,8 @@ Hey! I am Vipul Bohra.
 
 >>A B.tech student currently stuyding in PES University.
 
- <title>If you wanna contact me:</title>title
+## <title>If you wanna contact me:</title>
 
-    ```[Discord](https://discord.com/users/735393934057930762)```  
-    
-    ```[Instagram](https://instagram.com/_vipul_bohra))```
+[Discord](https://discord.com/users/735393934057930762)  
+```[Instagram](https://instagram.com/_vipul_bohra)```
     
