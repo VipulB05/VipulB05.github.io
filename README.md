@@ -1,8 +1,7 @@
 # Vipul's Portfolio
 <center>
-Hey! I am Vipul Bohra.  
-  
-</center>
+Hey! I am Vipul Bohra.    
+</center>  
 
 ## Education
 
@@ -10,7 +9,7 @@ Hey! I am Vipul Bohra.
 
  <title>If you wanna contact me:</title>title
 
-    >>[Discord](https://discord.com/users/735393934057930762)  
+    ```[Discord](https://discord.com/users/735393934057930762)```  
     
-    >>[Instagram](https://instagram.com/_vipul_bohra))
+    ```[Instagram](https://instagram.com/_vipul_bohra))```
     
