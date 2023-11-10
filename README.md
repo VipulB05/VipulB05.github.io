@@ -5,9 +5,9 @@ Hey! I am Vipul Bohra.
 
 ## Education
 
->>A B.tech student currently stuyding in PES University.
+>>A B.tech student currently stuyding at PES University.
 
-## <title>If you wanna contact me:</title>
+## If you wanna contact me:
 
 [Discord](https://discord.com/users/735393934057930762)  
 ```[Instagram](https://instagram.com/_vipul_bohra)```
