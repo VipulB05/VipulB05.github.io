@@ -8,11 +8,9 @@ Hey! I am Vipul Bohra.
 
 >>A B.tech student currently stuyding in PES University.
 
-### Skills
-|Col1|Col2|Col3|
-|-----|-----|-----|
-|Gaming|Cybersecurity|Basic coding|
+ <title>If you wanna contact me:</title>title
 
-#### If you wanna contact me:
-
-[Discord](https://discord.com/users/735393934057930762)
+    >>[Discord](https://discord.com/users/735393934057930762)  
+    
+    >>[Instagram](https://instagram.com/_vipul_bohra))
+    
