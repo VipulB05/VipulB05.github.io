@@ -10,5 +10,5 @@ Hey! I am Vipul Bohra.
 ## If you wanna contact me:
 
 [Discord](https://discord.com/users/735393934057930762)  
-```[Instagram](https://instagram.com/_vipul_bohra)```
+[Instagram](https://instagram.com/_vipul_bohra)
     
