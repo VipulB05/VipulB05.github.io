@@ -9,7 +9,12 @@ Hey! I am Vipul Bohra.
 >>
 
 ---  
+<details>
+  <summary>
+    WhoAmI
+  </summary>
 
+</details>
 <details>
   <summary>  
         Education
@@ -24,7 +29,4 @@ I completed my schooling in St.Joseph's Boys' High School and passed out in the 
 "Luffytaro")
 
 [Instagram](https://instagram.com/_vipul_bohra
-"Insta")
-
-
 "Insta")
