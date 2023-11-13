@@ -23,6 +23,8 @@ Hey! I am Vipul Bohra.
 [Discord](https://discord.com/users/735393934057930762
 "Luffytaro")
 
-[Instagram](https://instagram.com/_vipul_bohra
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/_vipul_bohra#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/_vipul_bohra#gh-dark-mode-only)
+
 
 "Insta")
