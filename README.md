@@ -13,7 +13,7 @@ Hey! I am Vipul Bohra.
   <summary>
     WhoAmI
   </summary>
-
+I don't think we have met before so let me introduce myself. Hello!I am Vipul Bohra an 18 year old B.Tech student trying to pursue my bachelor's degree in the field of Computer Science(Artificial Intelligence and Machine learning).I love messing around with stuff and yeah have a thing for computers and its features.
 </details>
 <details>
   <summary>  
